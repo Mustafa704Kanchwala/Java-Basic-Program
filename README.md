@@ -1,3 +1,3 @@
 # Java-Basic-Program 
-Author: Mustafa Kanchwala <br>
-Aucupation: Student 
+# Author: Mustafa Kanchwala <br>
+Occupation: Student 
