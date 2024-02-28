@@ -1,4 +1,4 @@
 # Java-Basic-Program 
 Author: Mustafa Kanchwala <br>
 Occupation: Student <br>
-College: Institute of Management Research and Development Shahada
+<b>College:</b> Institute of Management Research and Development Shahada
